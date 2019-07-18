@@ -25,7 +25,4 @@ public class UserProfile {
         return pass;
     }
 
-    public String getEmail() {
-        return email;
-    }
 }
