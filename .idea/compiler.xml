@@ -9,8 +9,8 @@
         <module name="StepikServer" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="StepikServer" target="1.5" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="StepikServer" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
